@@ -3,7 +3,7 @@
 ![web developer](https://scontent.fdac20-1.fna.fbcdn.net/v/t1.6435-9/52755188_2074908942801113_411633767342407680_n.jpg?stp=dst-jpg_p180x540&_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGpaseH0o5WWqjB2FR-rmbW-BsCdsG3y4r4GwJ2wbfLiope-3-GkyJo6xlayjvE4Ae3_-DuxKtRjba4UpmmYwmo&_nc_ohc=f7nISGd7Rd8AX-f1A_v&_nc_ht=scontent.fdac20-1.fna&oh=00_AfAgQ_eIPq5kAjIX5RYgMVx79WrhnEMTghyqtqmf6x3uQg&oe=63D51116)
 
 
-Skills:  HTML / CSS / BOOTSTRAP / PHP
+Skills:  HTML / CSS / BOOTSTRAP / PHP / Javascript 
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning PHP 
